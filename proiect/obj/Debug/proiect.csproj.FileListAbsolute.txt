@@ -1,0 +1,28 @@
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\bin\Debug\proiect.exe.config
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\bin\Debug\proiect.exe
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\bin\Debug\proiect.pdb
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\obj\Debug\proiect.exe
+C:\Users\irina\Desktop\proiect paw\proiect\proiect\obj\Debug\proiect.pdb
+C:\Users\irina\Desktop\proiect\proiect\bin\Debug\proiect.exe.config
+C:\Users\irina\Desktop\proiect\proiect\bin\Debug\proiect.exe
+C:\Users\irina\Desktop\proiect\proiect\bin\Debug\proiect.pdb
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.exe
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.pdb
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.FormImprumut.resources
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.FormCarte.resources
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.FormCititor.resources
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.UserControl1.resources
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\irina\Desktop\proiect\proiect\bin\Debug\bazadate.mdf
+C:\Users\irina\Desktop\proiect\proiect\bin\Debug\bazadate_log.ldf
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.FormData.resources
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.FormPrint.resources
+C:\Users\irina\Desktop\proiect\proiect\obj\Debug\proiect.FormGrafic.resources
